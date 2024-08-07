@@ -7,6 +7,9 @@ Always looking forward to learning more :smile:.
 ## :hammer: I'm currently working on
 * A static site generator
 
+### You can see my backlog of personal projects here:
+[Projects I want to work on!](https://github.com/users/git-cst/projects/1)
+
 ## :seedling: I'm currently learning
 * Python
 
