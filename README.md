@@ -9,6 +9,8 @@ Always looking forward to learning more :smile:.
 
 ## :seedling: I'm currently learning
 * Python
+
+## :bulb: I want to learn
 * JavaScript
 * Go
 
