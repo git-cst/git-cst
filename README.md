@@ -5,24 +5,25 @@ I like working with datasets and automatisation.
 Always looking forward to learning more :smile:.
 
 ## :hammer: I'm currently working on
-* A static site generator
+* A maze solver
+  ** 
 
 ##### You can see my backlog of personal projects here:
 ##### [Projects I want to work on!](https://github.com/users/git-cst/projects/1)
 
 ## :seedling: I'm currently learning
-* Python
+* Go
 
 ## :bulb: I want to learn
 * JavaScript
-* Go
+* C
 
 ## :briefcase: Technical skills
 ##### I code in:
-![](https://img.shields.io/badge/Code-Python-blue?logo=python) ![](https://img.shields.io/badge/Code-SQL-red?logo=mysql) 
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#) [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
 
 ##### I use:
-![](https://img.shields.io/badge/Tool-VSCode-blue?logo=vsco) ![](https://img.shields.io/badge/Tool-Git-red?logo=git) ![](https://img.shields.io/badge/Tool-GitHub-Black?logo=github)  ![](https://img.shields.io/badge/Tool-Postman-orange?logo=postman) 
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#) [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)  [![Postman](https://img.shields.io/badge/Postman-orange?logo=postman&logoColor=white)](#)
 
 ## :chart: GitHub Stats
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=git-cst)](https://github.com/git-cst)
