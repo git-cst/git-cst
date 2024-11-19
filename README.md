@@ -6,7 +6,7 @@ Always looking forward to learning more :smile:.
 
 ## :hammer: I'm currently working on
 * A maze solver
-  ** 
+  - Implementing multiple solutions (DFS :white_check_mark:, BFS :white_check_mark:, A* :x:, Dijkstra :x:) and graphical representations of these.
 
 ##### You can see my backlog of personal projects here:
 ##### [Projects I want to work on!](https://github.com/users/git-cst/projects/1)
