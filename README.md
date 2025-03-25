@@ -5,10 +5,10 @@ I like working with datasets and automatisation.
 Always looking forward to learning more :smile:.
 
 ## :hammer: I'm currently working on
-### :Python:  
+### Python  
 * A maze solver
   - Implementing multiple solutions (DFS :white_check_mark:, BFS :white_check_mark:, A* :x:, Dijkstra :x:) and graphical representations of these.
- ### :Go:  
+ ### Go  
 * An RSS feed aggregator service
   - Implemented using a postgres database accessed using a CLI written in Go.
 
