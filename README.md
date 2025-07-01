@@ -11,6 +11,7 @@ Always looking forward to learning more :smile:.
  ### Go  
 * An RSS feed aggregator service
   - Implemented using a postgres database accessed using a CLI written in Go.
+  - Working on changing the service to be accessible via a HTTP server.
 
 ##### You can see my backlog of personal projects here:
 ##### [Projects I want to work on!](https://github.com/users/git-cst/projects/1)
