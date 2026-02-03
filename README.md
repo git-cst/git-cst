@@ -6,12 +6,15 @@ Always looking forward to learning more :smile:.
 
 ## :hammer: I'm currently working on
 ### Python  
-* A maze solver
-  - Implementing multiple solutions (DFS :white_check_mark:, BFS :white_check_mark:, A* :white_check_mark:, Dijkstra :x:) and graphical representations of these.
+* FastAPI based Spotify Data Analysis tool with a Django frontend
+  - FastAPI handling frontend requests to login to Spotify (handling OAuth)
+  - Extraction of data (music plays, etc) from Spotify and persisted in Postgres
+  - Vectorization of data in order to be consumed by a locally hosted LLM.
+  - Recommendations of new song plays, insights into your data presented on Django frontend.
  ### Go  
 * An RSS feed aggregator service
   - Implemented using a postgres database accessed using a CLI written in Go.
-  - Working on changing the service to be accessible via a HTTP server.
+  - Working on changing this into a persistent service to be run on my homelab.
 
 ##### You can see my backlog of personal projects here:
 ##### [Projects I want to work on!](https://github.com/users/git-cst/projects/1)
