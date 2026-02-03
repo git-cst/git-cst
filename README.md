@@ -32,6 +32,6 @@ Always looking forward to learning more :smile:.
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#) [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)  [![Postman](https://img.shields.io/badge/Postman-orange?logo=postman&logoColor=white)](#)
 
 ## :chart: GitHub Stats
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=git-cst)](https://github.com/git-cst)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=git-cst)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=git-cst&layout=compact)](https://github.com/git-cst)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=git-cst)](https://github.com/anuraghazra/github-readme-stats)
