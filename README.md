@@ -4,6 +4,8 @@ I'm a guy focused on backend development of tools that I find useful in both my 
 I like working with datasets and automatisation.
 Always looking forward to learning more :smile:.
 
+I host my repos on [codeberg](https://codeberg.org/git-cst) here.
+
 ## :hammer: I'm currently working on
 ### Python  
 * FastAPI based Spotify Data Analysis tool with a Django frontend
@@ -15,16 +17,6 @@ Always looking forward to learning more :smile:.
 * An RSS feed aggregator service
   - Implemented using a postgres database accessed using a CLI written in Go.
   - Working on changing this into a persistent service to be run on my homelab.
-
-##### You can see my backlog of personal projects here:
-##### [Projects I want to work on!](https://github.com/users/git-cst/projects/1)
-
-## :seedling: I'm currently learning
-* Go
-
-## :bulb: I want to learn
-* JavaScript
-* C
 
 ## :briefcase: Technical skills
 ##### I code in:
